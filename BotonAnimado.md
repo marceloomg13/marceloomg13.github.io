@@ -4,7 +4,9 @@ title: BotonAnimado
 permalink: https://marceloomg13/marceloomg13.github.io/BotonAnimado/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the main page i made for the new component i developed in the last week in class, is just a button with a pulse animation and random color change.
+
+There also are methods that allow you o change de duration of the animation and the size of the component to specify the range of animation
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
